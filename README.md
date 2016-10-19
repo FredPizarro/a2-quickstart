@@ -1,6 +1,14 @@
 
 =======
 # README
+
+## Angular project needs files
+Clone a copy of the repo:
+
+```
+git clone https://github.com/FredPizarro/a2-quickstart.git
+```
+
 ## Install packages
 Using npm from the command line, install the packages listed in package.json with the command:
 
